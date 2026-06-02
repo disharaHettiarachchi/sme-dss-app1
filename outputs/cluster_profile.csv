@@ -1,0 +1,5 @@
+Cluster,Customers,Avg_Recency,Avg_Frequency,Avg_Monetary,Segment
+0,1080,44.4,16.86,7028.74,Champions
+1,1316,107.52,1.66,407.24,Potential Loyalists
+2,1570,497.63,1.62,497.14,At-Risk / Hibernating
+3,1853,113.26,4.99,1710.12,Potential Loyalists

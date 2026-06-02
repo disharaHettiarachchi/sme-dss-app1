@@ -1,0 +1,7 @@
+{
+  "sample_size": 200000,
+  "n_anomalies_detected": 1972,
+  "anomaly_rate_pct": 0.986,
+  "contamination_param": 0.01,
+  "cancellation_records_in_dataset": 19494
+}
